@@ -1,4 +1,4 @@
-# Hi there, I'm Mankz111 👋
+# Hi there, I'm Miguel Pereira
 ### ☁️ Cloud Computing Student | Tech Enthusiast
 
 I am currently studying **Cloud Computing**. This repository is where I document my learning journey, personal projects, and experiments driven by curiosity.
