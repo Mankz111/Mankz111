@@ -16,6 +16,12 @@ I am currently studying **Cloud Computing**. This repository is where I document
   </a>
 </div>
 
+<div align="center">
+  <a href="https://leetcode.com/O_TEU_USERNAME/">
+    <img src="https://leetcard.jacoblin.cool/mankz111?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</div>
+
 ### Certifications
 
 | Certification | Issuer | Date | Credential |
