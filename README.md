@@ -18,7 +18,7 @@ I am currently studying **Cloud Computing**. This repository is where I document
 
 ### Certifications
 
-| Certificado | Emissor | Data | Comprovativo |
+| Certification | Issuer | Date | Credential |
 | :--- | :---: | :---: | :---: |
 | **Jr Penetration Tester** | TryHackMe | Set 2025 | [Ver Credencial](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NVJYMCCV6O.pdf) |
 | **Web Fundamentals** | TryHackMe | Out 2025 | [Ver Credencial](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AZE86LGRXM.pdf) |
