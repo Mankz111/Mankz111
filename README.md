@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![TryHackMe](https://tryhackme-badges.vercel.app/api/badges?id=mankz111)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3889446" style='border:none;'></iframe>
 
 <!--
 **Mankz111/Mankz111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
