@@ -1,5 +1,5 @@
 # Hi there, I'm Miguel Pereira
-### Cloud Computing Student | Tech Enthusiast
+### Cloud Computing Student
 
 I am currently studying **Cloud Computing**. This repository is where I document my learning journey, personal projects, and experiments driven by curiosity.
 
