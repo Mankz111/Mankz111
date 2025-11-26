@@ -4,7 +4,7 @@
 I am currently studying **Cloud Computing**. This repository is where I document my learning journey, personal projects, and experiments driven by curiosity.
 
 ### What I'm exploring:
-* **Cloud:**![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) Deploying and managing infrastructure on **Microsoft Azure** (VMs, Networking, Load Balancers).
+* **Cloud:** ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) Deploying and managing infrastructure on **Microsoft Azure** (VMs, Networking, Load Balancers).
 * **Cybersecurity:** Playing CTFs on TryHackMe for fun & knowledge.
 * **AI/ML:** Experimenting with Machine Learning models.
 
