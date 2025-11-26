@@ -14,7 +14,7 @@ I am currently studying **Cloud Computing**. This repository is where I document
 
 <div align="center">
   <a href="https://github.com/mankz111">
-    <img src="https://github-readme-stats.vercel.app/api?username=mankz111&show_icons=true&theme=dark&count_private=true" height="180" alt="github stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mankz111&theme=dark&hide_border=true" height="180" alt="GitHub Streak" />
   </a>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="10" height="0" />
