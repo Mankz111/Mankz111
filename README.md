@@ -14,7 +14,7 @@ I am currently studying **Cloud Computing**. This repository is where I document
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mankz111.png?ref=force_update)](https://tryhackme.com/p/mankz111)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mankz111&layout=compact&theme=dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mankz111&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Mankz111/Mankz111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
