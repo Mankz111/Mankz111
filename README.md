@@ -10,7 +10,7 @@ I am currently studying **Cloud Computing**. This repository is where I document
 
 ---
 
-<h3 align="left">📊 My Progress</h3>
+<h3 align="left">My Progress</h3>
 
 <div align="center">
   <a href="https://github.com/mankz111">
