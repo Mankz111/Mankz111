@@ -3,14 +3,14 @@
 
 I am currently studying **Cloud Computing**. This repository is where I document my learning journey, personal projects, and experiments driven by curiosity.
 
-### 🔭 What I'm exploring:
+### What I'm exploring:
 * **Cloud & Infra:** Learning the ropes of Cloud Architecture.
 * **Cybersecurity:** Playing CTFs on TryHackMe for fun & knowledge.
 * **AI/ML:** Experimenting with Machine Learning models.
 
 ---
 
-### 📊 My Progress
+### My Progress
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mankz111.png?ref=force_update)](https://tryhackme.com/p/mankz111)
 
