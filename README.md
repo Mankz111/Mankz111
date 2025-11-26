@@ -11,14 +11,20 @@ I am currently studying **Cloud Computing**. This repository is where I document
 ---
 
 <h3 align="left">My Progress</h3>
-  <a href="https://tryhackme.com/p/mankz111">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/mankz111.png?ref=force_update" height="180" alt="tryhackme badge"/>
-  </a>
-</div>
 
 <div align="center">
+  <a href="https://github.com/mankz111">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mankz111&theme=dark&hide_border=true" height="170" alt="GitHub Streak" />
+  </a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="10" height="0" />
+  <a href="https://tryhackme.com/p/mankz111">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/mankz111.png?ref=force_update" height="170" alt="TryHackMe Badge" />
+  </a>
+
+  <br><br>
+
   <a href="https://leetcode.com/O_TEU_USERNAME/">
-    <img src="https://leetcard.jacoblin.cool/mankz111?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/O_TEU_USERNAME?theme=dark&font=source_code_pro&ext=heatmap" height="120" alt="LeetCode Stats" />
   </a>
 </div>
 
