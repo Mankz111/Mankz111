@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mankz111.png)](https://tryhackme.com/p/mankz111)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mankz111.png?ref=force_update)](https://tryhackme.com/p/mankz111)
 
 <!--
 **Mankz111/Mankz111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
