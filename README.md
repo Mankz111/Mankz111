@@ -11,11 +11,6 @@ I am currently studying **Cloud Computing**. This repository is where I document
 <table>
   <tr>
     <td valign="top" style="border: none;">
-      <a href="https://tryhackme.com/p/mankz111">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/mankz111.png" alt="Your Image Badge" />
-      </a>
-    </td>
-    <td valign="top" style="border: none;">
       <a href="https://leetcode.com/mankz111/">
         <img src="https://leetcard.jacoblin.cool/mankz111?theme=dark&font=source_code_pro&ext=heatmap" height="230" alt="LeetCode Stats" />
       </a>
